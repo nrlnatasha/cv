@@ -12,9 +12,23 @@ hr {
 }
 
 h1 {
+font-family: 'Josefin Sans', sans-serif;;
   color: #85A29D;
 }
 
 h3 {
+font-family: 'Josefin Sans', sans-serif;;
   color: #85a29d;
+}
+
+p {
+  font-family: 'Poppins', sans-serif;
+}
+
+table {
+  font-family: 'Poppins', sans-serif;
+}
+
+ul {
+  font-family: 'Poppins', sans-serif;
 }
